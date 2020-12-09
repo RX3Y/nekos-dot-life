@@ -20,7 +20,7 @@ Official wrapper for nekos.life! Very small install size with no external depend
 | -------- | ----------- |
 | `smug` | Gets a URL of a smug image/gif |
 | `baka` | Gets a URL of a baka image/gif |
-| `tickle` | Gets a URL of a tickle image/gif |
+| `tickle`| Gets a URL of a tickle image/gif |
 | `slap` | Gets a URL of a slap image/gif |
 | `poke` | Gets a URL of a poke image/gif |
 | `pat`  | Get a URL of a pat image/gif |
